@@ -1,0 +1,184 @@
+    body {
+        width: 75%;
+        height: 96%;
+        padding: 4% 12.75% 0 12.75%;
+        background-color: #edf2c5;
+    }
+    
+    .header {
+        display: inline-flex;
+        width: 940px;
+        height: 62px;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .big_title {
+        width: 271px;
+        height: 62px;
+        font-family: Arial;
+        font-size: 44px;
+        font-weight: 900;
+        font-style: normal;
+        font-stretch: normal;
+        letter-spacing: normal;
+        text-align: left;
+        color: #778a50;
+    }
+    
+    .small_btn {
+        display: inline-flex;
+        width: 200px;
+        height: 62px;
+        justify-content: space-between;
+        align-items: center;
+        object-fit: contain;
+    }
+    
+    .small_img {
+        position: relative;
+        top: 2px;
+    }
+    
+    .line_login {
+        width: 1px;
+        height: 25px;
+        background-color: #778a50;
+    }
+    
+    .JOIN,
+    .LOGIN {
+        height: 15px;
+        font-family: Arial;
+        font-size: 14px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        letter-spacing: normal;
+        text-align: left;
+        color: #778a50;
+        height: 25px;
+        padding: 4px 6px;
+        border: solid 1px #778a50;
+        border-radius: 5px;
+    }
+    
+    .list_titles {
+        align-items: center;
+        position: relative;
+        top: 5px;
+        border-radius: 3px;
+        background-color: #778a50;
+    }
+    
+    .upper_div {
+        width: 940px;
+        height: 44px;
+    }
+    
+    .list_titles .list_text {
+        display: inline-block;
+        padding: 10px 30px 12px 30px;
+        font-family: Arial;
+        height: 23px;
+        font-size: 16px;
+        font-weight: 900;
+        font-style: normal;
+        font-stretch: normal;
+        letter-spacing: normal;
+        color: beige;
+    }
+    
+    .Pumpkin_img {
+        padding: 20px 0 30px 0;
+    }
+    
+    .lower_div {
+        display: inline-flex;
+        width: 940px;
+        height: 235px;
+        justify-content: space-between;
+    }
+    
+    .Contact,
+    .Vegetables {
+        width: 444px;
+        height: 45px;
+    }
+    
+    .img {
+        display: inline-flex;
+        width: 444px;
+        justify-content: space-between;
+        margin: 15px 0 0 0;
+    }
+    
+    .line {
+        position: relative;
+        top: 15px;
+        width: 414px;
+        height: 1px;
+        background-color: #7d7d7d;
+        margin: 0 15px 0 15px;
+    }
+    
+    .contact_box {
+        width: 444px;
+        height: 140px;
+        background-color: #f7fbda;
+        text-align: center;
+    }
+    
+    .contact_text {
+        font-family: Arial;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        letter-spacing: normal;
+        text-align: left;
+        color: #7d7d7d;
+    }
+    
+    .contact_text_box_up {
+        width: 414px;
+        height: 44px;
+        margin: 15px 15px 15px 15px;
+        position: relative;
+        top: 15px;
+    }
+    
+    .contact_text_box_down {
+        margin: 15px 15px 15px 15px;
+        width: 197px;
+        height: 35px;
+        position: relative;
+        top: 15px;
+    }
+    
+    .PHONE {
+        position: relative;
+        bottom: 5px;
+    }
+    
+    .box_footer {
+        display: flex;
+        width: 1260px;
+        height: 60px;
+        justify-content: center;
+        position: relative;
+        right: 160px;
+        background-color: #778a50;
+    }
+    
+    .footer_text {
+        font-family: Arial;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 3;
+        letter-spacing: normal;
+        text-align: left;
+        color: beige;
+    }
